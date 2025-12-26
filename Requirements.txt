@@ -1,0 +1,7 @@
+# ATS
+fastapi
+uvicorn[standard]
+pypdf
+ollama
+ python-dotenv
+python-multipart
